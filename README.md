@@ -47,4 +47,6 @@ attributes of the Student class.
 ### Tools
 1. The IDE - Visual Studio Code
 2. Windows Power Shell
-3. Python 
+3. Python
+
+### Screen shots

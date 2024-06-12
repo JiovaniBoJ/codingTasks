@@ -50,3 +50,5 @@ attributes of the Student class.
 3. Python
 
 ### Screen shots
+This is a preview of the code:
+(https://github.com/JiovaniBoJ/codingTasks/assets/165221953/e05bd76b-38e4-4bde-a0c1-39311e89d1f0)
